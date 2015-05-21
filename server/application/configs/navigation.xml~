@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configdata>
+	<home>
+		<label>主页</label>
+		<Controller>index</Controller>
+		<action>index</action>
+		
+	</home>
+	<createlabel>
+		<label>这里的每条街道都由你创建</label>
+		<Controller>street</Controller>
+		<action>add-street</action>
+	</createlabel>
+	
+	
+</configdata>

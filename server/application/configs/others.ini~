@@ -1,0 +1,4 @@
+[useruppath]
+upimagepath="../public/images/userup"
+renrenpath=APPLICATION_PATH . "../library/renren"
+
