@@ -4,7 +4,7 @@
 @auther gu
 */
 interface ITag{
-	public  function getObjectsWithTag($tag, $tagger_id = NULL);
+	public  function getObjectsWithTag($tag, $offset = 0, $limit = 100, $tagger_id = NULL);
 	
 }
 
