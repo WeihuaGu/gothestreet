@@ -5,7 +5,8 @@
 interface IStreet{
 	public  function addStreet($name,$location);
 	public  function delStreet($id);
-	public  function transNameAndLocationToId($name,$location)
+	public  function transNameAndLocationToId($name,$location);
+	public  function streetShow($id);
 
 	
 }
